@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "지금 나오는 문구는 설치를 알리는 문구입니다.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "practiceOfPWA",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "practiceOfPWA",
+  "start_url": "https://8614-218-144-89-1.ngrok-free.app",
+  "theme_color": "#f8a625",
+  "id": "noId"
+}
